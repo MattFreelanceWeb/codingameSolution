@@ -14,7 +14,7 @@ Here you can see all of the solutions i've found so far
 
 [🗻 The descent](https://www.)
 
-[🔨 Power of Thor (Episode 1)](https://www.)
+[🔨 Power of Thor (Episode 1)](https://github.com/MattFreelanceWeb/codingameSolution/blob/main/Puzzles/Easy/PowerOfThor.js)
 
 [⛄ Températures](https://www.)
 
