@@ -20,4 +20,4 @@ Here you can see all of the solutions i've found so far
 
 - Medium
 
-[🌒 Shadows of the knight (Episode 1)](https://www.)
+[🌒 Shadows of the knight (Episode 1)](https://github.com/MattFreelanceWeb/codingameSolution/blob/main/Puzzles/Medium/ShadowsOfTheKnight.js)
