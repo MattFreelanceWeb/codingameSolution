@@ -18,6 +18,9 @@ Here you can see all of the solutions i've found so far
 
 [⛄ Températures](https://github.com/MattFreelanceWeb/codingameSolution/blob/main/Puzzles/Easy/Temperatures.js)
 
+[👾 MarsLander (Episode 1)](https://github.com/MattFreelanceWeb/codingameSolution/blob/main/Puzzles/Easy/Marslander.js)
+
+
 - Medium
 
 [🌒 Shadows of the knight (Episode 1)](https://github.com/MattFreelanceWeb/codingameSolution/blob/main/Puzzles/Medium/ShadowsOfTheKnight.js)
