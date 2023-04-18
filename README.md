@@ -3,7 +3,7 @@
 
 Here you can see all of the solutions i've found so far
 
-
+**technos: JAVASCRIPT**
 
 
 ## Codingame website : 
@@ -12,11 +12,11 @@ Here you can see all of the solutions i've found so far
 
  - Easy
 
-[🗻 The descent](https://www.)
+[🗻 The descent](https://github.com/MattFreelanceWeb/codingameSolution/blob/main/Puzzles/Easy/TheDescent.js)
 
-[🔨 Power of Thor (Episode 1)](https://www.)
+[🔨 Power of Thor (Episode 1)](https://github.com/MattFreelanceWeb/codingameSolution/blob/main/Puzzles/Easy/PowerOfThor.js)
 
-[⛄ Températures](https://www.)
+[⛄ Températures](https://github.com/MattFreelanceWeb/codingameSolution/blob/main/Puzzles/Easy/Temperatures.js)
 
 - Medium
 
