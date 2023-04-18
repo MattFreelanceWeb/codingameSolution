@@ -3,7 +3,7 @@
 
 Here you can see all of the solutions i've found so far
 
-
+**technos: JAVASCRIPT**
 
 
 ## Codingame website : 
